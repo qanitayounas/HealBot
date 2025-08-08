@@ -1,4 +1,4 @@
-# Mental Health Support Chatbot
+# HealBot 
 
 A terminal-based mental health support chatbot powered by OpenAI GPT-3.5-turbo and ChromaDB for knowledge retrieval. This chatbot provides therapeutic support, coping strategies, and mental health guidance for users.
 
@@ -162,5 +162,6 @@ Feel free to enhance this chatbot by:
 - Adding new file format support
 
 ## License
+
 
 This project is for educational and support purposes. Please use responsibly and in accordance with mental health best practices. 
