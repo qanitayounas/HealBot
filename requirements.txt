@@ -1,0 +1,60 @@
+# Core packages for the mental health chatbot
+openai
+PyPDF2
+reportlab
+chromadb
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+tiktoken
+sentence-transformers
+pypdf2
+python-docx
+beautifulsoup4
+requests
+colorama
+
+# NumPy with compatible version (fixes ChromaDB compatibility issues)
+numpy==1.26.4
+
+# Machine learning and data processing
+pandas
+scikit-learn
+transformers
+torch
+
+# Additional dependencies that might be needed
+scipy
+matplotlib
+seaborn
+jupyter
+ipython
+
+# Document processing
+pypdf
+pdfplumber
+docx2txt
+
+# Web scraping and processing
+lxml
+html5lib
+urllib3
+
+# Database and storage
+pickle-mixin
+
+# Utilities
+tqdm
+click
+typer
+rich 
+
+# Backend web framework and dependencies
+fastapi
+uvicorn
+pymongo
+passlib
+jose
+authlib
+starlette 
